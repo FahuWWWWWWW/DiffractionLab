@@ -1,0 +1,5 @@
+{
+  "name": "衍射实验平台",
+  "description": "单缝菲涅尔衍射与夫琅禾费衍射的交互式模拟，可视化近场光学与远场光学之间的过渡。",
+  "requestFramePermissions": []
+}
